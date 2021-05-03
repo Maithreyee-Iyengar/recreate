@@ -1,0 +1,127 @@
+body{
+  margin: 40px;
+  text-align: center;
+  font-family: arial;
+}
+
+.top-container{
+text-align: right;
+margin-right: 20px;
+margin-top: 20px;
+
+}
+.middle-container{
+position: relative;
+text-align: center;
+top: 100px;
+
+}
+.primary{
+  position:relative;
+  text-align: center;
+
+}
+
+.bottom-container{
+position: relative;
+padding-top: 10px;
+top: 90px;
+
+}
+
+
+.bttn1{
+  position: relative;
+  display: inline-block;
+  padding: 6px 12px;
+}
+.a{
+    color: grey;
+    padding-right: 10px;
+  }
+  .gb_8e{
+    height: 24.02px;
+    width: 24.02px;
+    margin-right: 5px;
+  }
+  .gb_Da{
+    border-radius: 15px;
+  }
+
+
+.bttn2{
+  position: relative;
+  display:
+ inline-block;
+  padding: 6px 12px;
+
+}
+.gb_Da{
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+.gb_D{
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+  }
+#menu{
+    position: relative;
+    display: inline-block;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+a{
+  text-align: center;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 10px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+
+.input-group{
+  padding-top: 50px;
+  position: relative;
+  text-align: center;
+  margin: 5px 5px;
+
+}
+
+
+.app{
+  position: relative;
+  top:10px;
+  width: 10px;
+  padding: 10px;
+}
+
+
+.googlepic{
+  width: 400px;
+}
